@@ -34,7 +34,7 @@ Input `64×64×3` → three `Conv2D(4×4, ReLU)` + `MaxPooling2D` blocks with 16
 - **Loss / optimizer:** `BinaryCrossentropy` / `Adam`
 
 <p align="center">
-  <img src="assets/model_summary.png" alt="Keras model summary" width="600">
+  <img src="assets/model_summary.jpg" alt="Keras model summary" width="600">
 </p>
 
 ## Results
@@ -49,7 +49,7 @@ Input `64×64×3` → three `Conv2D(4×4, ReLU)` + `MaxPooling2D` blocks with 16
 Exact numbers vary slightly from run to run.
 
 <p align="center">
-  <img src="assets/training_curves.png" alt="Training and validation loss and accuracy curves" width="800">
+  <img src="assets/training_curves.jpg" alt="Training and validation loss and accuracy curves" width="800">
 </p>
 
 ## Repository structure
