@@ -1,0 +1,7 @@
+tensorflow>=2.15
+numpy
+opencv-python
+Pillow
+matplotlib
+# Only needed if you download the dataset from the command line:
+kaggle

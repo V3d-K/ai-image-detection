@@ -1,0 +1,27 @@
+# Dataset & downloads
+data/
+*.zip
+
+# Training artifacts
+logs/
+*.h5
+*.keras
+*.weights.h5
+training_checkpoints/
+
+# Secrets
+kaggle.json
+kaggle*.json
+.kaggle/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
